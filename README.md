@@ -87,16 +87,6 @@ Wait for the public URL printed by ngrok, and open it in your browser!
 
 ---
 
-## 🌟 Screenshots
-
-| Mode | Example |
-|-----|-----|
-| Text Chat | ![Text Chat](example-text-chat.png) |
-| Image Understanding | ![Image Understanding](example-image-understanding.png) |
-| Image Generation | ![Image Generation](example-image-generation.png) |
-
----
-
 ## 🙏 Acknowledgments
 
 - [Google AI](https://ai.google) for Gemini API
